@@ -1,0 +1,12 @@
+h1  {
+  font-family: cursive;
+  color: white;
+  background: #aa00aa;
+  padding: 25px 0 25px 0;
+
+}
+.tagline {
+  font-family: fantasy;
+  color: green;
+  border: 5;
+}
