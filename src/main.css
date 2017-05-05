@@ -1,12 +1,56 @@
 h1  {
   font-family: cursive;
   color: white;
-  background: #aa00aa;
-  padding: 25px 0 25px 0;
-
+  text-align: center;
+}
+h2 {
+  font-family: cursive;
+  color: #aa00aa;
+  text-align-last: justify;
+}
+.header {
+  padding: 10px 0 60px 0;
+  background-image: url(./kleive.jpg);
 }
 .tagline {
   font-family: fantasy;
   color: green;
-  border: 5;
+  border: 50;
+  padding: 20 px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  border-color: black;
+  background-color:grey;
+  text-indent: 30px;
+  border-style: groove;
 }
+
+.tagline p {
+  font-family: sans-serif;
+  color: blue;
+}
+
+.skills {
+  border: 50;
+  padding: 20 px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  border-color: black;
+  background-color: yellow;
+  text-indent: 30px;
+  border-style: outset;
+}
+.skills li{
+  display:inline;
+
+}
+.contact {
+  border: 50;
+  padding: 20 px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+  border-color: black;
+  background-color: yellow;
+  text-indent: 30px;
+  border-style:double;
+}
+ body{
+   background-color: #EE0011;
+ }
